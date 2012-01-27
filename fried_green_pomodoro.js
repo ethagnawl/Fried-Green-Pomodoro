@@ -1,0 +1,1 @@
+javascript:(function()%7Bfunction%20b(a)%7Bif(void%200===a)a=confirm(%22Ready?%22);else%20if(a)a=!0;else%20return;a&&setTimeout(function()%7Balert(c);confirm(%22Again?%22)&&b(!0)%7D,d)%7Dvar%20d=15E5,c=%22Take%20a%20break!%22;b()%7D)();
