@@ -1,4 +1,4 @@
-javascript:(function () {
+(function () {
     var work_length = 25,
         ready = false,
         count = 0;
